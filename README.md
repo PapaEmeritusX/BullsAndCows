@@ -29,3 +29,9 @@ Congratulations! You guessed the secret code.
 * As the player guesses the whole string correctly with all bulls the game is over. 
 
 The game was built in one class, all integrated with the interface, hence the code lacks overall consistency and readability, which could be improved by setting the logic in to a separate class.
+
+The objective was to generate random numbers and charecters, store data in data structures, and handle errors.
+
+
+
+**This was rather for fun project)**
