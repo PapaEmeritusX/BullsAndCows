@@ -34,4 +34,4 @@ The objective was to generate random numbers and charecters, store data in data 
 
 
 
-**This was rather for fun project)**
+**This was rather for fun small project)**
