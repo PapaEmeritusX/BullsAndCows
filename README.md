@@ -1,4 +1,4 @@
-#Bulls and Cows 
+# Bulls and Cows 
 
 Advanced version of the classic game *"Bulls and Cows"*.
 
